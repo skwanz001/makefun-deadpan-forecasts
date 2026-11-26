@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: Deadpan Forecasts for Cities That Do Not Exist (u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c) — satu baris prakiraan cuaca deadpan max 160 karakter untuk kota yang tidak ada, dinilai AI judge pairwise.
